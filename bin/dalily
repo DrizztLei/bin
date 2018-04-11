@@ -1,3 +1,0 @@
-sudo emerge --sync && emerge -auvDN world && emerge --depclean && revdep-rebuild
-sudo layman -S
-sudo eix-update

@@ -1,3 +1,0 @@
-#sudo grub2-mkconfig -o /boot/grub/grub.cfg
-sudo cp /boot/grub/grub.cfg /boot/grub/grub.cfg.old
-sudo grub-mkconfig -o /boot/grub/grub.cfg
